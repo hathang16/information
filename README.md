@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td align="center"><b>MSA 주차 예약 시스템 (Chagok)</b></td>
-      <td align="center"><code>2025. - 2025.12.12</code></td>
+      <td align="center"><code>2025.11.25 - 2025.12.12</code></td>
       <td align="left">MSA 기반의 주차장 조회, 예약 및 카카오페이 결제 연동 서비스</td>
       <td align="center"><code>Spring Boot</code> <code>Spring Cloud</code> <code>JPA</code> <code>Kafka</code></td>
       <td align="center"><a href="https://github.com/20250918-beyond-SW-Camp-21th/beyond-SW-21th-second-1team">README</a></td>
